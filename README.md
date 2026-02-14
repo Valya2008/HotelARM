@@ -64,6 +64,7 @@
 •   **Data/** — программная логика для связи с базой данных.  
 •   **Models/** — описание ключевых сущностей (Номера, Клиенты).  
 •   **my_database.db** — файл локального хранилища информации.  
-# Qr-код #
+# Qr-код #  
+
 <img width="791" height="765" alt="image" src="https://github.com/user-attachments/assets/9fad2289-2c4b-4e62-8849-2a186d2ef89e" />
 
