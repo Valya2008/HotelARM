@@ -66,5 +66,6 @@
 •   **my_database.db** — файл локального хранилища информации.  
 # Qr-код #  
 
-<img width="791" height="765" alt="image" src="https://github.com/user-attachments/assets/9fad2289-2c4b-4e62-8849-2a186d2ef89e" />
+<img width="491" height="482" alt="image" src="https://github.com/user-attachments/assets/c32075f7-0531-41be-b8cc-9c1e7b243055" />
+
 
